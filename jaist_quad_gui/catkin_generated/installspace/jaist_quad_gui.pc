@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: jaist_quad_gui
+Description: Description of jaist_quad_gui
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -ljaist_quad_gui
+Requires: image_transport sensor_msgs cv_bridge

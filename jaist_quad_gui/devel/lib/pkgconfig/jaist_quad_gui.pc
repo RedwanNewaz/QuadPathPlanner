@@ -1,0 +1,8 @@
+prefix=/home/redwan/Desktop/moveIT/moveit/src/Ardrone/GUI/jaist_quad_gui/devel
+
+Name: jaist_quad_gui
+Description: Description of jaist_quad_gui
+Version: 0.0.0
+Cflags: -I/home/redwan/Desktop/moveIT/moveit/src/Ardrone/GUI/jaist_quad_gui/include
+Libs: -L/home/redwan/Desktop/moveIT/moveit/src/Ardrone/GUI/jaist_quad_gui/devel/lib -ljaist_quad_gui
+Requires: image_transport sensor_msgs cv_bridge
